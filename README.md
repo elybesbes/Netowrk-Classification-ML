@@ -9,7 +9,7 @@ In this project, I focused on developing a machine learning model for classifyin
 - Capturing network traffic: NFStream (generated me the pcap file)
 - Data Processing: Pandas, NumPy
 - Machine Learning benchmark from scikit-learn: Decision Tree, Random Forest, SVM, KNN
-- Visualization: Seaborn
+- Visualization: Matplotlib and Seaborn
 - Database to store predictions: SQL
 - Monitoring and Analysis: Grafana
 
@@ -18,7 +18,7 @@ In this project, I focused on developing a machine learning model for classifyin
 - Capturing traffic from a network port.
 - Classification of encrypted network traffic into different types.
 - Feature extraction from encrypted DNS packets.
-- Benchmarking of machine learning algorithms.
+- Benchmarking of machine learning algorithms : Result ==> Random Forest
 - Deployment of the model on a live server.
 - Storage of predictions in an SQL database.
 - Comprehensive monitoring and analysis through Grafana.
